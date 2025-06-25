@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀%20Coming%20Soon-ff6b35?style=for-the-badge&logo=rocket&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/AI-🤖%20Powered-4CAF50?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered">
-  <img src="https://img.shields.io/badge/Built%20on-💻%20VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/License-📜%20MIT-blue?style=for-the-badge&logo=opensource&logoColor=white" alt="License">
+  <img src="https://img.shields.io/badge/Status-Coming%20Soon-ff6b35?style=for-the-badge&logo=rocket&logoColor=white" alt="Status">
+  <img src="https://img.shields.io/badge/AI-Powered-4CAF50?style=for-the-badge&logo=cpu&logoColor=white" alt="AI Powered">
+  <img src="https://img.shields.io/badge/Built%20on-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=balance-scale&logoColor=white" alt="License">
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 <h2 align="center">🎯 Source Code Repository</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📋%20Status-In%20Active%20Development-00D4FF?style=flat-square&logo=github-actions&logoColor=white" alt="Development Status">
-  <img src="https://img.shields.io/badge/📅%20Expected%20Release-Q4%202025-ff6b35?style=flat-square&logo=calendar&logoColor=white" alt="Release Date">
+  <img src="https://img.shields.io/badge/Status-In%20Active%20Development-00D4FF?style=flat-square&logo=code&logoColor=white" alt="Development Status">
+  <img src="https://img.shields.io/badge/Expected%20Release-Q4%202025-ff6b35?style=flat-square&logo=calendar&logoColor=white" alt="Release Date">
 </p>
 
 <div align="center">
@@ -40,8 +40,8 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="AI Engine" width="80">
-<h3>🧠 AI Engine Core</h3>
+<img src="https://img.icons8.com/material-outlined/96/000000/artificial-intelligence.png" alt="AI Engine" width="80">
+<h3>AI Engine Core</h3>
 <ul align="left">
 <li>Smart code completion algorithms</li>
 <li>Intelligent error detection systems</li>
@@ -50,8 +50,8 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/design.png" alt="UI Components" width="80">
-<h3>🎨 Modern UI Components</h3>
+<img src="https://img.icons8.com/material-outlined/96/000000/design.png" alt="UI Components" width="80">
+<h3>Modern UI Components</h3>
 <ul align="left">
 <li>Glass morphism design system</li>
 <li>Professional and Gaming themes</li>
@@ -60,8 +60,8 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/performance.png" alt="Performance" width="80">
-<h3>⚡ Performance Engine</h3>
+<img src="https://img.icons8.com/material-outlined/96/000000/performance.png" alt="Performance" width="80">
+<h3>Performance Engine</h3>
 <ul align="left">
 <li>Memory-efficient algorithms</li>
 <li>Fast rendering pipeline</li>
@@ -70,8 +70,8 @@
 </ul>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/development-tools.png" alt="Dev Tools" width="80">
-<h3>🛠️ Development Tools</h3>
+<img src="https://img.icons8.com/material-outlined/96/000000/code.png" alt="Dev Tools" width="80">
+<h3>Development Tools</h3>
 <ul align="left">
 <li>Build system configuration</li>
 <li>Testing framework setup</li>
@@ -89,19 +89,19 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎯%20Phase%201-AI%20Engine-00D4FF?style=for-the-badge&logo=brain&logoColor=white" alt="Phase 1">
-<img src="https://img.shields.io/badge/🎨%20Phase%202-UI%20System-4CAF50?style=for-the-badge&logo=palette&logoColor=white" alt="Phase 2">
-<img src="https://img.shields.io/badge/⚡%20Phase%203-Performance-ff6b35?style=for-the-badge&logo=flash&logoColor=white" alt="Phase 3">
-<img src="https://img.shields.io/badge/🚀%20Phase%204-Full%20Release-9c27b0?style=for-the-badge&logo=rocket&logoColor=white" alt="Phase 4">
+<img src="https://img.shields.io/badge/Phase%201-AI%20Engine-00D4FF?style=for-the-badge&logo=cpu&logoColor=white" alt="Phase 1">
+<img src="https://img.shields.io/badge/Phase%202-UI%20System-4CAF50?style=for-the-badge&logo=palette&logoColor=white" alt="Phase 2">
+<img src="https://img.shields.io/badge/Phase%203-Performance-ff6b35?style=for-the-badge&logo=flash&logoColor=white" alt="Phase 3">
+<img src="https://img.shields.io/badge/Phase%204-Full%20Release-9c27b0?style=for-the-badge&logo=rocket&logoColor=white" alt="Phase 4">
 
 <br><br>
 
-| 📊 Component | 🔄 Status | 📅 Timeline | 📈 Progress |
+| Component | Status | Timeline | Progress |
 |-------------|----------|------------|-----------|
-| 🧠 AI Engine | `In Development` | **Q3 2025** | ![80%](https://progress-bar.dev/80?color=00D4FF) |
-| 🎨 UI System | `Design Complete` | **Q3 2025** | ![95%](https://progress-bar.dev/95?color=4CAF50) |
-| ⚡ Performance Layer | `Optimizing` | **Q4 2025** | ![60%](https://progress-bar.dev/60?color=ff6b35) |
-| 🚀 Full Release | `Coming Soon` | **Q4 2025** | ![40%](https://progress-bar.dev/40?color=9c27b0) |
+| AI Engine | `In Development` | **Q3 2025** | ![80%](https://progress-bar.dev/80?color=00D4FF) |
+| UI System | `Design Complete` | **Q3 2025** | ![95%](https://progress-bar.dev/95?color=4CAF50) |
+| Performance Layer | `Optimizing` | **Q4 2025** | ![60%](https://progress-bar.dev/60?color=ff6b35) |
+| Full Release | `Coming Soon` | **Q4 2025** | ![40%](https://progress-bar.dev/40?color=9c27b0) |
 
 </div>
 
@@ -114,7 +114,7 @@
 <div align="center">
 
 <details>
-<summary><strong>🧠 AI-Powered Intelligence</strong></summary>
+<summary><strong>AI-Powered Intelligence</strong></summary>
 
 <br>
 
@@ -140,7 +140,7 @@ console.log('🤖 AI Engine Ready!');
 </details>
 
 <details>
-<summary><strong>🎨 Modern Design System</strong></summary>
+<summary><strong>Modern Design System</strong></summary>
 
 <br>
 
@@ -171,7 +171,7 @@ console.log('🤖 AI Engine Ready!');
 </details>
 
 <details>
-<summary><strong>⚡ High Performance Engine</strong></summary>
+<summary><strong>High Performance Engine</strong></summary>
 
 <br>
 
@@ -209,13 +209,13 @@ renderer.on('performance', (metrics) => {
 <div align="center">
 
 <a href="https://github.com/ZERO-DAWN-X/NyxoraX">
-  <img src="https://img.shields.io/badge/👀%20Watch-Repository-0366d6?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Watch Repository">
+  <img src="https://img.shields.io/badge/Watch-Repository-0366d6?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Watch Repository">
 </a>
 <a href="https://github.com/ZERO-DAWN-X/NyxoraX">
-  <img src="https://img.shields.io/badge/⭐%20Star-Project-ffd700?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Star Project">
+  <img src="https://img.shields.io/badge/Star-Project-ffd700?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="Star Project">
 </a>
 <a href="https://github.com/ZERO-DAWN-X">
-  <img src="https://img.shields.io/badge/👤%20Follow-Creator-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Follow Creator">
+  <img src="https://img.shields.io/badge/Follow-Creator-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Follow Creator">
 </a>
 
 <br><br>
@@ -227,13 +227,13 @@ renderer.on('performance', (metrics) => {
 </div>
 
 <div align="center">
-<h3>📱 How to Get Notified</h3>
+<h3>How to Get Notified</h3>
 </div>
 
-- **⭐ Star this repository** to receive notifications about releases
-- **👀 Watch the repository** for real-time updates and discussions  
-- **👤 Follow @ZERO-DAWN-X** for development announcements
-- **🔔 Enable notifications** to never miss important updates
+- **Star this repository** to receive notifications about releases
+- **Watch the repository** for real-time updates and discussions  
+- **Follow @ZERO-DAWN-X** for development announcements
+- **Enable notifications** to never miss important updates
 
 ---
 
@@ -328,7 +328,7 @@ This project will be released under the **MIT License** - promoting open-source 
 
 <div align="center">
 
-<h2>🎨 Crafted with ❤️ by ZERO-DAWN-X</h2>
+<h2>Crafted with ❤️ by ZERO-DAWN-X</h2>
 
 <p><em>Building the future of intelligent code editing</em></p>
 
