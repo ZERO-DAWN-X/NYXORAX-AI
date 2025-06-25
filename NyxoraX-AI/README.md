@@ -9,7 +9,7 @@
 [![Built on VSCode](https://img.shields.io/badge/Built%20on-VS%20Code-007ACC?style=flat-square)](https://code.visualstudio.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-<img src="https://raw.githubusercontent.com/ZERO-DAWN-X/NyxoraX/main/public/NyxoraX-AI.png" alt="NyxoraX AI Editor" width="650" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+<img src="https://raw.githubusercontent.com/ZERO-DAWN-X/public/NyxoraX-AI.png" alt="NyxoraX AI Editor" width="650" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
 
 ## Source Code Repository
 
