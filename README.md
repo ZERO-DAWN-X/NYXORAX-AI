@@ -88,14 +88,19 @@ npm run watch
 <table>
 <tr>
 <td align="center">
-<img src="public/Professional-Theme.png" alt="Professional" width="300">
+<img src="public/Professional-Theme.png" alt="Professional" width="250">
 <br><strong>Professional</strong>
 <br><em>Clean, elegant design</em>
 </td>
 <td align="center">
-<img src="public/Gameing-theme.png" alt="Gaming" width="300">
+<img src="public/Gameing-theme.png" alt="Gaming" width="250">
 <br><strong>Gaming</strong>
 <br><em>Vibrant, energetic colors</em>
+</td>
+<td align="center">
+<img src="public/Light-Theme.png" alt="Light" width="250">
+<br><strong>Light</strong>
+<br><em>Bright, minimalist interface</em>
 </td>
 </tr>
 </table>
