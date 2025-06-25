@@ -164,8 +164,6 @@ npm run watch
 
 <div align="center">
 
----
-
 ### **NyxoraX AI Code Editor**
 
 **Built with ❤️ by ZERO-DAWN-X**
@@ -174,11 +172,13 @@ npm run watch
 [![Repository](https://img.shields.io/badge/Repository-NyxoraX-blue?style=for-the-badge&logo=git)](https://github.com/ZERO-DAWN-X/NyxoraX)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
 
-<div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
-  <strong>🚀 The Future of Intelligent Development</strong>
-  <br>
-  <em>Where Artificial Intelligence meets Human Creativity</em>
-</div>
+---
+
+**🚀 The Future of Intelligent Development**
+
+*Where Artificial Intelligence meets Human Creativity*
+
+---
 
 **© 2025 ZERO-DAWN-X** | **MIT License** | **Powered by AI** | **Designed for Developers**
 
