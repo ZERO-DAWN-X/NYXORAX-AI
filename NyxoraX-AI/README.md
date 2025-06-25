@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![NyxoraX-AI Logo](../public/NyxoraX-AI.png)
+![NyxoraX-AI Logo](../public/codexpert-logo.png)
 
 <h2>COMING SOON</h2>
 
