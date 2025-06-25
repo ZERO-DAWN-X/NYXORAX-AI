@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen.svg)](https://github.com/ZERO-DAWN-X/NyxoraX)
 
-![NyxoraX AI Editor](public/NyxoraX-AI.png)
+![NyxoraX AI Editor](public/codexpert-logo.png)
 
 </div>
 
@@ -23,21 +23,44 @@ NyxoraX combines Visual Studio Code with advanced AI capabilities, delivering in
 
 ---
 
-## Core Features
+## Why Choose NyxoraX?
 
 <div align="center">
 
-### **AI Intelligence**
-Context-aware code completion and generation  
-Smart error detection with automated fixes
+*Revolutionary AI meets elegant design to transform your coding experience*
 
-### **Modern Interface**  
-Dual theme system with glass morphism design  
-Customizable workspace and responsive layout
+</div>
 
-### **Performance**
-Lightning-fast execution with memory optimization  
-Real-time collaboration and VS Code compatibility
+### **Advanced AI Capabilities**
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h4>🧠 Smart Completion</h4>
+<p>Context-aware suggestions that understand your code patterns and project structure</p>
+</td>
+<td align="center" width="33%">
+<h4>🔍 Intelligent Analysis</h4>
+<p>Real-time error detection with AI-powered solutions and performance optimization</p>
+</td>
+<td align="center" width="33%">
+<h4>💬 Natural Language</h4>
+<p>Write code using plain English descriptions and let AI generate the implementation</p>
+</td>
+</tr>
+</table>
+
+### **Professional Development Experience**
+
+<div align="center">
+
+| Feature | Description | Benefit |
+|:-------:|:-----------:|:-------:|
+| **Glass Morphism UI** | Modern translucent design with blur effects | Enhanced visual appeal |
+| **Dual Theme System** | Professional & Gaming modes | Personalized workspace |
+| **Lightning Performance** | Optimized rendering and memory management | Faster development |
+| **Real-time Collaboration** | Built-in team coding features | Seamless teamwork |
+| **VS Code Compatible** | Full extension ecosystem support | Familiar environment |
 
 </div>
 
@@ -81,6 +104,49 @@ npm run watch
 
 ---
 
+## Meet the Developer
+
+<div align="center">
+
+<img src="https://github.com/ZERO-DAWN-X.png" alt="ZERO-DAWN-X" width="120" style="border-radius: 50%; border: 3px solid #4CAF50;">
+
+### **ZERO-DAWN-X**
+*AI Developer & Innovation Architect*
+
+</div>
+
+**Vision:** Creating intelligent development tools that amplify human creativity and productivity through the power of artificial intelligence.
+
+<div align="center">
+
+**Expertise**
+- AI & Machine Learning Integration
+- Modern UI/UX Design Principles  
+- Performance Optimization
+- Developer Experience Enhancement
+
+**Philosophy:** *"Code should be intuitive, powerful, and beautiful"*
+
+</div>
+
+---
+
+## Community & Support
+
+<div align="center">
+
+### Join Our Growing Community
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da?style=for-the-badge&logo=discord)](https://discord.gg/nyxorax)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/ZERO-DAWN-X/NyxoraX/discussions)
+[![Issues](https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github)](https://github.com/ZERO-DAWN-X/NyxoraX/issues)
+
+**🌟 Star the repo** • **🐛 Report bugs** • **💡 Suggest features** • **🤝 Contribute code**
+
+</div>
+
+---
+
 ## Contributing
 
 1. Fork the repository
@@ -93,12 +159,23 @@ npm run watch
 
 <div align="center">
 
-**Built by ZERO-DAWN-X**
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZERO--DAWN--X-black?style=flat&logo=github)](https://github.com/ZERO-DAWN-X)
-[![Repository](https://img.shields.io/badge/Repository-NyxoraX-blue?style=flat&logo=git)](https://github.com/ZERO-DAWN-X/NyxoraX)
+### **NyxoraX AI Code Editor**
 
-<sub>MIT License | Powered by AI | Designed for Developers</sub>
+**Built with ❤️ by ZERO-DAWN-X**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZERO--DAWN--X-black?style=for-the-badge&logo=github)](https://github.com/ZERO-DAWN-X)
+[![Repository](https://img.shields.io/badge/Repository-NyxoraX-blue?style=for-the-badge&logo=git)](https://github.com/ZERO-DAWN-X/NyxoraX)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE.txt)
+
+<div style="margin: 20px 0; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 10px; color: white;">
+  <strong>🚀 The Future of Intelligent Development</strong>
+  <br>
+  <em>Where Artificial Intelligence meets Human Creativity</em>
+</div>
+
+**© 2025 ZERO-DAWN-X** | **MIT License** | **Powered by AI** | **Designed for Developers**
 
 </div>
 
@@ -113,25 +190,75 @@ npm run watch
   to { opacity: 1; transform: translateX(0); }
 }
 
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 @keyframes pulse {
   0%, 100% { transform: scale(1); opacity: 1; }
   50% { transform: scale(1.05); opacity: 0.8; }
 }
 
-h1, h2, h3 {
-  animation: fadeIn 1s ease-out;
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 5px rgba(102, 126, 234, 0.5); }
+  50% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.8), 0 0 30px rgba(102, 126, 234, 0.6); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+}
+
+h1 {
+  animation: fadeIn 1.2s ease-out;
+  color: #2c3e50;
+}
+
+h2 {
+  animation: slideIn 1s ease-out;
+  color: #34495e;
+}
+
+h3 {
+  animation: slideUp 0.8s ease-out;
+  color: #2980b9;
 }
 
 img {
   animation: slideIn 1.2s ease-out;
-  transition: transform 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 img:hover {
-  transform: scale(1.02);
+  transform: scale(1.05) rotate(2deg);
+  filter: brightness(1.1);
+}
+
+table {
+  animation: fadeIn 1.5s ease-out;
 }
 
 .badge {
   animation: pulse 2s infinite;
+}
+
+.gradient-box {
+  animation: glow 3s ease-in-out infinite alternate;
+}
+
+code {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+}
+
+blockquote {
+  border-left: 4px solid #3498db;
+  padding-left: 20px;
+  margin: 20px 0;
+  background: rgba(52, 152, 219, 0.1);
+  border-radius: 5px;
 }
 </style>
