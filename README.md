@@ -2,11 +2,10 @@
 
 # NyxoraX AI Code Editor
 
-*The next-generation AI-powered code editor built on Visual Studio Code*
+*Next-generation AI-powered development environment*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen.svg)](https://github.com/ZERO-DAWN-X/NyxoraX)
-[![Modern UI](https://img.shields.io/badge/UI-Modern-purple.svg)](https://github.com/ZERO-DAWN-X/NyxoraX)
 
 ![NyxoraX AI Editor](public/NyxoraX-AI.png)
 
@@ -14,142 +13,125 @@
 
 ---
 
-## ✨ **What is NyxoraX?**
+## Overview
 
-NyxoraX is a sophisticated AI-enhanced code editor that combines the power of Visual Studio Code with cutting-edge artificial intelligence capabilities. Built for developers who demand speed, intelligence, and elegance in their coding environment.
+NyxoraX combines Visual Studio Code with advanced AI capabilities, delivering intelligent code completion, automated error detection, and natural language programming support for modern developers.
 
 <div align="center">
-  <img src="public/NyxoraX-Editor.png" alt="NyxoraX Editor Interface" width="800">
+  <img src="public/NyxoraX-Editor.png" alt="Editor Interface" width="700">
 </div>
 
 ---
 
-## 🚀 **Key Features**
-
-### **🤖 AI-Powered Development**
-- **Intelligent Code Completion** - Context-aware suggestions powered by AI
-- **Smart Error Detection** - Advanced diagnostics and automated fixes
-- **Code Generation** - AI-assisted code writing and optimization
-- **Natural Language Processing** - Write code using natural language descriptions
-
-### **🎨 Modern Interface**
-- **Dual Theme System** - Professional and Gaming themes
-- **Customizable Welcome Page** - Personalized startup experience  
-- **Glass Morphism Design** - Modern visual effects and styling
-- **Responsive Layout** - Optimized for all screen sizes
-
-### **⚡ Enhanced Performance**
-- **Lightning Fast** - Optimized for maximum speed
-- **Memory Efficient** - Smart resource management
-- **Real-time Collaboration** - Built-in team features
-- **Extension Ecosystem** - Full VS Code compatibility
-
----
-
-## 🎨 **Theme Gallery**
+## Core Features
 
 <div align="center">
 
-### Professional Theme
-<img src="public/Professional-Theme.png" alt="Professional Theme" width="400">
+### **AI Intelligence**
+Context-aware code completion and generation  
+Smart error detection with automated fixes
 
-*Clean, elegant design for professional development*
+### **Modern Interface**  
+Dual theme system with glass morphism design  
+Customizable workspace and responsive layout
 
-### Gaming Theme  
-<img src="public/Gameing-theme.png" alt="Gaming Theme" width="400">
-
-*Vibrant, energetic colors for creative coding*
+### **Performance**
+Lightning-fast execution with memory optimization  
+Real-time collaboration and VS Code compatibility
 
 </div>
 
 ---
 
-## 🛠️ **Quick Start**
+## Quick Start
 
-### **Installation**
 ```bash
-# Clone the repository
+# Clone and setup
 git clone https://github.com/ZERO-DAWN-X/NyxoraX.git
-
-# Navigate to the project
 cd NyxoraX/vscode
-
-# Install dependencies
 npm install
 
-# Build the editor
+# Build and run
 npm run compile
-
-# Launch NyxoraX
 npm run watch
-```
-
-### **Development Mode**
-```bash
-# Start development server
-npm run watch
-
-# In a new terminal, launch the editor
-./scripts/code.sh  # macOS/Linux
-./scripts/code.bat # Windows
 ```
 
 ---
 
-## 🎯 **About the Creator**
+## Themes
 
-**ZERO-DAWN-X** - *AI Developer & UI/UX Enthusiast*
+<div align="center">
 
-Passionate about creating intelligent development tools that enhance programmer productivity through artificial intelligence and modern design principles.
+<table>
+<tr>
+<td align="center">
+<img src="public/Professional-Theme.png" alt="Professional" width="300">
+<br><strong>Professional</strong>
+<br><em>Clean, elegant design</em>
+</td>
+<td align="center">
+<img src="public/Gameing-theme.png" alt="Gaming" width="300">
+<br><strong>Gaming</strong>
+<br><em>Vibrant, energetic colors</em>
+</td>
+</tr>
+</table>
 
-- 🔬 **Specialization**: AI-powered development tools
-- 🎨 **Design Philosophy**: Minimalistic, functional, beautiful
-- 🚀 **Mission**: Making coding more intuitive and enjoyable
+</div>
 
 ---
 
-## 🤝 **Contributing**
+## Contributing
 
-We welcome contributions from the community! Here's how you can help:
-
-- 🐛 **Report Bugs** - Found an issue? Let us know
-- 💡 **Suggest Features** - Have ideas for AI enhancements?
-- 🔧 **Submit Code** - Contribute to the codebase
-- 📚 **Improve Docs** - Help make our documentation better
-
-### **Development Guidelines**
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📞 **Connect & Support**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ZERO--DAWN--X-black?style=for-the-badge&logo=github)](https://github.com/ZERO-DAWN-X)
-[![Repository](https://img.shields.io/badge/Repository-NyxoraX-blue?style=for-the-badge&logo=git)](https://github.com/ZERO-DAWN-X/NyxoraX)
-
-**Questions?** Open an issue or start a discussion!
-
-</div>
-
----
-
-## 📄 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.txt) file for details.
-
-Built with ❤️ by **ZERO-DAWN-X** | Powered by AI | Designed for Developers
+2. Create feature branch (`git checkout -b feature/name`)
+3. Commit changes (`git commit -m 'Add feature'`)
+4. Push branch (`git push origin feature/name`)
+5. Open Pull Request
 
 ---
 
 <div align="center">
-  <sub>
-    <strong>NyxoraX AI Code Editor</strong><br>
-    The future of intelligent development is here.
-  </sub>
+
+**Built by ZERO-DAWN-X**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZERO--DAWN--X-black?style=flat&logo=github)](https://github.com/ZERO-DAWN-X)
+[![Repository](https://img.shields.io/badge/Repository-NyxoraX-blue?style=flat&logo=git)](https://github.com/ZERO-DAWN-X/NyxoraX)
+
+<sub>MIT License | Powered by AI | Designed for Developers</sub>
+
 </div>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-30px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+}
+
+h1, h2, h3 {
+  animation: fadeIn 1s ease-out;
+}
+
+img {
+  animation: slideIn 1.2s ease-out;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
+}
+
+.badge {
+  animation: pulse 2s infinite;
+}
+</style>

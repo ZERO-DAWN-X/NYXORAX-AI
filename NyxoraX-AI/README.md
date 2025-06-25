@@ -52,7 +52,7 @@ Easy-to-implement APIs with comprehensive documentation and developer support
 
 <div align="center">
 
-*Professional AI Solutions*
+*Nyxora X AI Solutions*
 
 **© 2025 NyxoraX-AI Team**
 
