@@ -1,24 +1,46 @@
 <div align="center">
 
-# NyxoraX AI Code Editor
+# 🚀 NyxoraX AI Code Editor
 
-*Next-generation AI-powered development environment*
+<sub>*Next-generation AI-powered development environment*</sub>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen.svg)](https://github.com/ZERO-DAWN-X/NyxoraX)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen.svg?style=flat-square)](https://github.com/ZERO-DAWN-X/NyxoraX)
+[![Version](https://img.shields.io/badge/Version-2.0-purple.svg?style=flat-square)](https://github.com/ZERO-DAWN-X/NyxoraX)
+[![Stars](https://img.shields.io/github/stars/ZERO-DAWN-X/NyxoraX?style=flat-square&color=yellow)](https://github.com/ZERO-DAWN-X/NyxoraX)
+
+<br>
 
 ![NyxoraX AI Editor](public/codexpert-logo.png)
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🎯 Revolutionizing Code Development with AI Intelligence  │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## Overview
-
-NyxoraX combines Visual Studio Code with advanced AI capabilities, delivering intelligent code completion, automated error detection, and natural language programming support for modern developers.
+## 📖 Overview
 
 <div align="center">
-  <img src="public/NyxoraX-Editor.png" alt="Editor Interface" width="700">
+
+> **NyxoraX** combines the power of **Visual Studio Code** with cutting-edge **AI capabilities**  
+> Delivering intelligent code completion, automated error detection, and natural language programming  
+> **Built for developers who demand excellence**
+
+<img src="public/NyxoraX-Editor.png" alt="Editor Interface" width="700">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│           ✨ Experience the Future of Coding ✨            │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -66,71 +88,107 @@ NyxoraX combines Visual Studio Code with advanced AI capabilities, delivering in
 
 ---
 
-## Quick Start
+## ⚡ Quick Start
+
+<div align="center">
+
+### 🛠️ Installation & Setup
+
+</div>
 
 ```bash
-# Clone and setup
+# 📥 Clone the repository
 git clone https://github.com/ZERO-DAWN-X/NyxoraX.git
+
+# 📂 Navigate to project
 cd NyxoraX/vscode
+
+# 📦 Install dependencies
 npm install
 
-# Build and run
+# 🔨 Build the editor
 npm run compile
+
+# 🚀 Launch NyxoraX
 npm run watch
 ```
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│    🎉 Ready to code with AI-powered intelligence! 🎉      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ---
 
-## Themes
+## 🎨 Visual Themes
 
 <div align="center">
+
+### Choose Your Perfect Development Environment
 
 <table>
 <tr>
 <td align="center">
 <img src="public/Professional-Theme.png" alt="Professional" width="250">
-<br><strong>Professional</strong>
-<br><em>Clean, elegant design</em>
+<br>**🏢 Professional**
+<br>*Clean, elegant design for business*
 </td>
 <td align="center">
 <img src="public/Gameing-theme.png" alt="Gaming" width="250">
-<br><strong>Gaming</strong>
-<br><em>Vibrant, energetic colors</em>
+<br>**🎮 Gaming**
+<br>*Vibrant, energetic colors for creativity*
 </td>
 <td align="center">
 <img src="public/Light-Theme.png" alt="Light" width="250">
-<br><strong>Light</strong>
-<br><em>Bright, minimalist interface</em>
+<br>**☀️ Light**
+<br>*Bright, minimalist interface*
 </td>
 </tr>
 </table>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│        🌈 Multiple themes to match your coding mood        │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## Meet the Developer
+## 👨‍💻 Meet the Developer
 
 <div align="center">
 
 <img src="https://github.com/ZERO-DAWN-X.png" alt="ZERO-DAWN-X" width="120" style="border-radius: 50%; border: 3px solid #4CAF50;">
 
-### **ZERO-DAWN-X**
+### **🚀 ZERO-DAWN-X**
 *AI Developer & Innovation Architect*
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│              💫 Crafting the Future of Development         │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-**Vision:** Creating intelligent development tools that amplify human creativity and productivity through the power of artificial intelligence.
+**🎯 Vision:** Creating intelligent development tools that amplify human creativity and productivity through the power of artificial intelligence.
 
 <div align="center">
 
-**Expertise**
-- AI & Machine Learning Integration
-- Modern UI/UX Design Principles  
-- Performance Optimization
-- Developer Experience Enhancement
+**🛠️ Expertise**
+- 🤖 AI & Machine Learning Integration
+- 🎨 Modern UI/UX Design Principles  
+- ⚡ Performance Optimization
+- 👥 Developer Experience Enhancement
 
-**Philosophy:** *"Code should be intuitive, powerful, and beautiful"*
+**💭 Philosophy:** *"Code should be intuitive, powerful, and beautiful"*
 
 </div>
 
@@ -164,7 +222,7 @@ npm run watch
 
 <div align="center">
 
-### **NyxoraX AI Code Editor**
+### 🌟 **NyxoraX AI Code Editor** 🌟
 
 **Built with ❤️ by ZERO-DAWN-X**
 
@@ -174,96 +232,21 @@ npm run watch
 
 ---
 
-**🚀 The Future of Intelligent Development**
-
-*Where Artificial Intelligence meets Human Creativity*
+```
+┌─────────────────────────────────────────────────────────────┐
+│      🚀 The Future of Intelligent Development 🚀          │
+│   Where Artificial Intelligence meets Human Creativity    │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 **© 2025 ZERO-DAWN-X** | **MIT License** | **Powered by AI** | **Designed for Developers**
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  ⭐ Thank you for visiting! ⭐             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </div>
-
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes slideIn {
-  from { opacity: 0; transform: translateX(-30px); }
-  to { opacity: 1; transform: translateX(0); }
-}
-
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(30px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-@keyframes pulse {
-  0%, 100% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.05); opacity: 0.8; }
-}
-
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 5px rgba(102, 126, 234, 0.5); }
-  50% { box-shadow: 0 0 20px rgba(102, 126, 234, 0.8), 0 0 30px rgba(102, 126, 234, 0.6); }
-}
-
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-}
-
-h1 {
-  animation: fadeIn 1.2s ease-out;
-  color: #2c3e50;
-}
-
-h2 {
-  animation: slideIn 1s ease-out;
-  color: #34495e;
-}
-
-h3 {
-  animation: slideUp 0.8s ease-out;
-  color: #2980b9;
-}
-
-img {
-  animation: slideIn 1.2s ease-out;
-  transition: all 0.3s ease;
-}
-
-img:hover {
-  transform: scale(1.05) rotate(2deg);
-  filter: brightness(1.1);
-}
-
-table {
-  animation: fadeIn 1.5s ease-out;
-}
-
-.badge {
-  animation: pulse 2s infinite;
-}
-
-.gradient-box {
-  animation: glow 3s ease-in-out infinite alternate;
-}
-
-code {
-  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-family: 'Courier New', monospace;
-}
-
-blockquote {
-  border-left: 4px solid #3498db;
-  padding-left: 20px;
-  margin: 20px 0;
-  background: rgba(52, 152, 219, 0.1);
-  border-radius: 5px;
-}
-</style>
