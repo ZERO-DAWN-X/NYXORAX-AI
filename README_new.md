@@ -13,7 +13,7 @@
 
 **NyxoraX** combines Visual Studio Code with cutting-edge AI capabilities to revolutionize your development experience. Built for developers who demand excellence in their coding environment.
 
-![Editor Interface](public/Desktop.png)
+![Editor Interface](public/NyxoraX-Editor.png)
 
 ### Key Highlights
 
@@ -76,11 +76,15 @@ npm run watch
 
 Choose your perfect development environment from our carefully crafted themes:
 
-| Theme | Preview | Description |
-|:-----:|:-------:|:-----------:|
-| **Professional** | ![Professional Theme](public/Professional-Theme.png) | Clean, elegant design perfect for business development and corporate environments |
-| **Gaming** | ![Gaming Theme](public/Gameing-theme.png) | Vibrant, energetic colors designed for creative coding and game development |
-| **Light** | ![Light Theme](public/Light-Theme.png) | Bright, minimalist interface for focused work and enhanced readability |
+### Professional Theme
+
+![Professional Theme](public/Professional-Theme.png)
+*Clean, elegant design perfect for business development and corporate environments*
+
+### Gaming Theme
+
+![Gaming Theme](public/Gameing-theme.png)
+*Vibrant, energetic colors designed for creative coding and game development*
 
 ## Developer
 
